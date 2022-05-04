@@ -1,0 +1,29 @@
+{
+  "name": "linkvertise-extend",
+  "version": "1.0.0",
+  "description": "module that extends the default linkvertise fullscript api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Xue0Huiling/linkvertise-extend.git"
+  },
+  "keywords": [
+    "linkvertise",
+    "monetization",
+    "monetization api",
+    "link monetization",
+    "link shortener"
+  ],
+  "author": "Xue Huiling",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Xue0Huiling/linkvertise-extend/issues"
+  },
+  "homepage": "https://github.com/Xue0Huiling/linkvertise-extend#readme",
+  "dependencies": {
+    "request": "^2.88.2"
+  }
+}
